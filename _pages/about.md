@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Senior Associate at <a href="https://www.robi.com.bd/en" target="_blank" rel="noopener noreferrer">Robi Axiata PLC</a>, a multinational telecommunication company, specializing in IT systems and innovative solutions. With a strong background in Electrical and Electronic Engineering, I focus on optimizing system architectures, enhancing wireless network capabilities, and integrating AI-driven innovations. My research interests include next-generation wireless networks, machine learning, and IoT, aiming to contribute to advancements in technology and system efficiency.
+I am a Senior Associate at <a href="https://www.robi.com.bd/en" target="_blank" rel="noopener noreferrer">Robi Axiata PLC</a>, a multinational telecommunication company, specializing in IT systems and innovative solutions. With a strong background in Electrical and Electronic Engineering, I focus on optimizing system architectures, enhancing wireless network capabilities, and integrating AI-driven innovations. My research interests include next-generation wireless networks (5G/6G), signal/image processing, machine learning, and IoT, aiming to contribute to advancements in technology and system efficiency.
 
 A data-driven personal website
 ======
