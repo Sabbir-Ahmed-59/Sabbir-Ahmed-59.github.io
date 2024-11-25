@@ -8,9 +8,6 @@ Name Name:
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
-  linkedin    : "https://www.linkedin.com/in/sabbir-ahmed-345a90194"
-  author:
-  name: Sabbir Ahmed
 
 Name2 Name2:
   name        : "Name2 Name2"
@@ -19,6 +16,9 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
-  author:
+
+  SabbirAhmed:
   name: Sabbir Ahmed
-  linkedin    : "https://www.linkedin.com/in/sabbir-ahmed-345a90194"
+  location: Dhaka, Bangladesh
+  employer: Robi Axiata Limited
+  linkedin: "https://www.linkedin.com/in/sabbir-ahmed-59/"
