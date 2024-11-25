@@ -21,9 +21,9 @@ repository               : "https://sabbir-ahmed-59.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Sabbir Ahmed.jpg"
   name             : "Sabbir Ahmed"
-  pronouns         : "he/him"
+  pronouns         : #"he/him"
   bio              : "Tech Enthusiast"
   location         : "Dhaka, Bangladesh"
   employer         : "Robi Axiata PLC"
