@@ -9,6 +9,8 @@ Name Name:
   twitter     : "name"
   google_plus : "Name"
   linkedin    : "https://www.linkedin.com/in/sabbir-ahmed-345a90194"
+  author:
+  name: Sabbir Ahmed
 
 Name2 Name2:
   name        : "Name2 Name2"
@@ -17,4 +19,6 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+  author:
+  name: Sabbir Ahmed
   linkedin    : "https://www.linkedin.com/in/sabbir-ahmed-345a90194"
