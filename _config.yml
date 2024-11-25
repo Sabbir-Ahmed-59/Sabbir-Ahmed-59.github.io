@@ -26,7 +26,7 @@ author:
   pronouns         : #"he/him"
   bio              : "Senior Associate, Core IT Applications, IT Division, Robi Axiata PLC"
   location         : "Dhaka, Bangladesh"
-  employer         : "Islamic University of Technology (IUT)"
+  employer         : "Robi Axiata PLC"
   university       :  "IUT"
   uri              : # URL
   email            : "sabbirahmed59@iut-dhaka.edu" 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Sabbir Ahmed"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
