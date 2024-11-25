@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sabbir Ahmed / Portfolio"
+title                    : "Sabbir's Homepage"
 title_separator          : "-"
 name                     : &name "Sabbir Ahmed"
 description              : &description "personal description"
