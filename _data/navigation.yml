@@ -7,8 +7,9 @@
 main:
   - title: "CV"
     url: /files/CV_Sabbir Ahmed.pdf
-  - title: "Portfolio"
-    url: /portfolio/
+  
+  - title: "Projects"
+    url: /Projects/
  
   - title: "Publications"
     url: /publications/
