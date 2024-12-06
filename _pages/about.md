@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<div style="font-size: 16px; line-height: 1.6;">
-
 ### About Me
 
 I am a **Senior Associate** at [Robi Axiata PLC](https://www.robi.com.bd/en), the second-largest mobile operator in Bangladesh, specializing in **application architecture**, **demand management**, and **product management**.
@@ -36,4 +33,3 @@ My academic and professional experiences have fueled my passion for the followin
 
 I aspire to contribute to breakthroughs in **wireless technologies** that redefine connectivity and innovation.
 
-</div>
