@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h1 class="about-title">About Me</h1>
 
 <p style="font-size: 16px;">
 I am a Senior Associate at <a href="https://www.robi.com.bd/en" style="text-decoration: none; color: purple;">Robi Axiata PLC</a>, the second largest mobile operator in Bangladesh, specializing in application architecture, demand and product management.
