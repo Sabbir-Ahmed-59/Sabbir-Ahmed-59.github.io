@@ -12,7 +12,7 @@ I am a Senior Associate at <a href="https://www.robi.com.bd/en" target="_blank" 
 
 I obtained my B.Sc. in Electrical and Electronic Engineering from the Islamic University of Technology (IUT), Dhaka, Bangladesh, in 2021. Following graduation, I joined <a href="https://www.etcblglobal.com/" target="_blank" rel="noopener noreferrer">ETCBL Global</a> as a Graduate Substation Design Engineer, where I served until September 2022. I am currently working at Robi Axiata PLC, focusing on optimizing product configurations, system architecture, and enhancing subscriber experiences. I am also seeking PhD opportunities for Fall 2025.
 
-My research interests include next-generation wireless networks (5G/6G), remote sensing, machine learning, and IoT, aiming to contribute to advancements in wireless technology.
+My research interests include **next-generation wireless networks (5G/6G), remote sensing, machine learning**, and **internet of things**, aiming to contribute to advancements in wireless technology.
 
 A data-driven personal website
 ======
