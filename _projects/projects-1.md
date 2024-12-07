@@ -1,6 +1,6 @@
 ---
 title: "Real-time Facemask Detection using CNN & Deep Learning"
-excerpt: "This project leverages CNN & Deep Learning to detect facemask usage in real-time.<br/><img src='/images/500x300.png'>"
+excerpt: "This project leverages CNN & Deep Learning to detect facemask usage in real-time.<br/><img src='/images/Face_Mask.png'>"
 collection: projects
 ---
 
