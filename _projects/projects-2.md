@@ -1,6 +1,6 @@
 ---
 title: "Automatic Power Factor Improvement System"
-excerpt: "Designed and implemented a system to optimize power factor automatically, using Arduino Uno and a capacitor bank.<br/><img src='/images/PowerFactorImprovement.JPEG'>"
+excerpt: "Designed and implemented a system to optimize power factor automatically, using Arduino Uno and a capacitor bank.<br/><img src='/images/PowerFactorImprovement.jpeg'>"
 collection: projects
 ---
 
