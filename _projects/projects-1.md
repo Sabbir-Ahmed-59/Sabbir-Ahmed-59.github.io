@@ -12,11 +12,12 @@ This project focuses on building a facemask detection system using CNN and deep 
 - **Accuracy:** Reliable detection with optimized model architecture.
 - **Deep Learning Frameworks:** TensorFlow and Keras were used for training and testing.
 
-Model Training and Validation Accuracy and Loss Graph
-<br/><img src='/images/AccuracyLossImage.png'>
+### Model Training and Validation Accuracy and Loss Graph
+<br/><img src='/images/AccuracyLossImage.png' width="500">
 
-Output
-<br/><img src='/images/MaskOutput.png'>
+### Output
+<br/><img src='/images/MaskOutput.png' width="500">
+
 
 ### Requirements
 - Python 3.x
