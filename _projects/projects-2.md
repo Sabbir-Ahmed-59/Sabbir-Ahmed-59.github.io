@@ -28,4 +28,4 @@ This project aims to improve the power factor of inductive loads using an Arduin
 - Transitioning to Arduino Mega for expanded control capabilities.
 
 ### Project Report
-[Download the full project report (PDF)](/files/PFC_Project_Report.pdf)
+[Download the full project report (PDF)](/files/PFI_Project_Report.pdf)
