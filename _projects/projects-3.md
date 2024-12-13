@@ -21,9 +21,10 @@ This project demonstrates the implementation of a basic calculator using an 8051
 ### **LCD Integration:**  
 - Displays inputs, operations, and results in ASCII format on a 16x2 LCD module.  
 ### **Proteus Simulation:**  
-- Circuit simulated in Proteus software, ensuring proper functionality before hardware implementation.  
+- Circuit simulated in Proteus software, ensuring proper functionality before hardware implementation.
+
 ### **Code Compilation:**  
-- Program written in Assembly language using MIDE-51 IDE, converted into a `.hex` file, and uploaded to the microcontroller.  
+- Program written in Assembly language using MIDE-51 IDE, converted into a `.hex` file, and uploaded to the microcontroller.
 ---
 ## Challenges Faced  
 - Limited memory and 8-bit register size, restricting operations to values ≤ 255.  
