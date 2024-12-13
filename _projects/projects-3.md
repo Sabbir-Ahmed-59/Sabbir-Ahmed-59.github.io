@@ -55,6 +55,6 @@ This project demonstrates the implementation of a basic calculator using an 8051
 
 ## Project Report  
 
-[Download the full project report (PDF)](files/Microcontroller_Project.pdf)  
+[Download the full project report (PDF)](/files/Microcontroller_Project.pdf)  
 
 ---  
