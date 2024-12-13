@@ -7,7 +7,6 @@ collection: projects
 This project demonstrates the implementation of a basic calculator using an 8051 microcontroller. The calculator performs arithmetic operations—addition, subtraction, multiplication, and division. The inputs are provided through a 4x4 keypad, and results are displayed on an LCD screen.  
 
 ---
-
 ## Features
 
 - **Arithmetic Operations:** Performs addition, subtraction, multiplication, and division of two numbers.  
@@ -17,7 +16,6 @@ This project demonstrates the implementation of a basic calculator using an 8051
 - **Simulation and Coding:** Circuit designed in Proteus, and the code developed using MIDE-51 IDE.  
 
 ---
-
 ## Implementation Details  
 
 ### **8051 Microcontroller:**  
@@ -36,7 +34,6 @@ This project demonstrates the implementation of a basic calculator using an 8051
 - Program written in Assembly language using MIDE-51 IDE, converted into a `.hex` file, and uploaded to the microcontroller.  
 
 ---
-
 ## Challenges Faced  
 
 - Limited memory and 8-bit register size, restricting operations to values ≤ 255.  
@@ -44,7 +41,6 @@ This project demonstrates the implementation of a basic calculator using an 8051
 - Converting large hexadecimal outputs to decimal format.  
 
 ---
-
 ## Future Prospects  
 
 - Expanding functionality to handle floating-point operations.  
@@ -52,7 +48,6 @@ This project demonstrates the implementation of a basic calculator using an 8051
 - Transitioning to a more advanced microcontroller for enhanced capabilities.  
 
 ---
-
 ## Project Report  
 
 [Download the full project report (PDF)](/files/Microcontroller_Project.pdf)  
