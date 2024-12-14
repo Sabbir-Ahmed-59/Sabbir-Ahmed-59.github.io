@@ -1,10 +1,27 @@
-# Research
-Welcome to my Research page! Here, I highlight the projects and topics I'm passionate about, including:
+---
+title: "Real-time Facemask Detection using CNN & Deep Learning"
+excerpt: "This project leverages CNN & Deep Learning to detect facemask usage in real-time.<br/><img src='/images/Face_Mask.png'>"
+collection: projects
+---
 
-- Next-generation wireless networks
-- AI-driven network optimization
-- Distributed machine learning
-- Networked autonomous systems
-- [More details...](#)
+This project focuses on building a facemask detection system using CNN and deep learning techniques. The model was trained using TensorFlow and Keras, achieving high accuracy for real-time predictions. It takes input from images or live video streams to classify if a facemask is present.
 
-Feel free to explore my work!
+<h3 style="color:purple;">Features</h3>
+- **Convolutional Neural Networks (CNN):** For extracting essential image features.
+- **Real-time Detection:** Operates on live video streams or image inputs.
+- **Accuracy:** Reliable detection with optimized model architecture.
+- **Deep Learning Frameworks:** TensorFlow and Keras were used for training and testing.
+
+<h3 style="color:purple;">Model Training and Validation Accuracy and Loss Graph</h3>
+<img src='/images/AccuracyLossImage.png' width="500">
+
+<h3 style="color:purple;">Output</h3>
+<img src='/images/MaskOutput.png' width="500">
+
+<h3 style="color:purple;">Requirements</h3>
+- Python 3.x
+- TensorFlow
+- Keras
+- OpenCV
+- Numpy
+- Matplotlib
